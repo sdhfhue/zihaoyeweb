@@ -49,47 +49,47 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: RStudio
-        description: ''
-        percent: 20
-        icon: rstudio
-        icon_pack: devicon
       - name: MATLAB
         description: ''
-        percent: 60
-        icon: matlab
-        icon_pack: devicon
+        percent: 75
+        icon: globe
+        icon_pack: fas
       - name: ROS
         description: ''
-        percent: 30
-        icon: ROS
-        icon_pack: devicon
+        percent: 65
+        icon: robot
+        icon_pack: fas
       - name: C++
         description: ''
         percent: 40
-        icon: C++
-        icon_pack: devicon
+        icon: wrench
+        icon_pack: fas
+      - name: RStudio
+        description: ''
+        percent: 35
+        icon: computer
+        icon_pack: fas
   - name: Modeling
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Fusion 360
         description: ''
-        percent: 80
-        icon: person-hiking
+        percent: 90
+        icon: cube
         icon_pack: fas
       - name: Solidworks
         description: ''
-        percent: 65
-        icon: cat
+        percent: 70
+        icon: fish
         icon_pack: fas
       - name: Midas
         description: ''
-        percent: 60
-        icon: camera-retro
+        percent: 70
+        icon: bridge
         icon_pack: fas
 
 # Social/Academic Networking
@@ -104,8 +104,8 @@ social:
     icon_pack: fab
     link: https://github.com/sdhfhue
   - icon: weixin
-    icon_pack: brands
-    link: 'x-ycztfe'
+    icon_pack: fab
+    link: uploads/QRcode.jpg
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
